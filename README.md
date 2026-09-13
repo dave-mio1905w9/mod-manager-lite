@@ -39,3 +39,5 @@ Check GitHub updates for mods that have an UpdateKeys entry pointing to GitHub:
 ```cmd
 python modman.py check
 ```
+
+<!-- last-checked: 2026-09-13 -->
