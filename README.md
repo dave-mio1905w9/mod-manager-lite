@@ -40,4 +40,4 @@ Check GitHub updates for mods that have an UpdateKeys entry pointing to GitHub:
 python modman.py check
 ```
 
-<!-- last-checked: 2026-10-03 -->
+<!-- last-checked: 2026-10-04 -->
